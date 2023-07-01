@@ -1,24 +1,19 @@
 # Work-related-projects
 Work-related projects that I have engaged in as a Software Project Manager. Also, I did some side R&D projects to enhance my technical knowledge.
 
-### BSc in Computer Science and Engineering (CSE), 2018-2022 at [United International University (UIU)](https://www.uiu.ac.bd/)
+### Specialist, Enterprise and OTT Solutions, New Core Planning (Software Project Manager) at [Robi Axiata Limited](https://www.robi.com.bd/en)
 
-## Research Projects
+## Projects overseen as Software Project Manager
 
-### [Predicting Irregular Sleeping Patterns from Social Media: A Psycholinguistic Analysis From Tweets](https://github.com/Jawwad-Fida/Predicting-Irregular-Sleeping-Patterns-From-Tweets "GitHub Repository") - 📘 Undergraduate Thesis
-Predict whether a user is suffering from Irregular Sleeping Patterns (ISP) based on their social media interactions on Twitter. We identify users' ISP by using psycholinguistic (i.e., LIWC) and contextual (i.e., BERT) features from tweets. We then built a hybrid classification prediction model to predict users’ Irregular Sleeping Patterns from psycholinguistic traits derived from user tweets. 
+### [Binge - Online video streaming OTT platform (binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
+Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial.
 
-**Domain**:  Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
-**Tools used**: Twitter API - Tweepy, LIWC2015, IBM SPSS Statistical Software.
+Binge is Robi's owned streaming platform has been successfully running from 2021. In 2023 Binge is number one OTT Platform in Bangladesh.
 
-The extended version of this work has been submitted for publication at [Elsevier - Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications)\
-Current Status: [Under Review](https://track.authorhub.elsevier.com/?uuid=2968e30a-7905-4b86-8c8d-44a7f486a6c8)
+Binge brings a wide variety of contents from: Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals. It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.
 
-### Social Media Research: A Review on User Behavior - 📘 Survey Paper
-Review existing literature on user behavior research in social media. Additionally, review the study of machine learning algorithms used in user behavior research and the effect of social media recommendation systems on user behavior.
+**Achivements**: 
 
-**Domain**: Machine Learning, User Behavior, Recommendation Systems, Social Media, Behavioral Analysis\
-Current Status: On going
 
 ## Academic Projects 
 

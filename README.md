@@ -1,5 +1,5 @@
 # Work-related-projects
-Work related projects that I have engaged in as a Software Project Manager. Also, some side R&amp;D projects  that I have completed in order to enhance my technical knowledge.
+Work-related projects that I have engaged in as a Software Project Manager. Also, I did some side R&D projects to enhance my technical knowledge.
 
 ### BSc in Computer Science and Engineering (CSE), 2018-2022 at [United International University (UIU)](https://www.uiu.ac.bd/)
 

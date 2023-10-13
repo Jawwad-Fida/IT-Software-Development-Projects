@@ -66,46 +66,33 @@ Key Benefits:
 * All RPA logs can be seen from this solution; No need to login into ELK for log analysis.
 * Perfect solution for low-level automation in comparison with the market applications.
 
-### [Orchestrator RPA](https:#) - 📘 Centralized platform to monitor and control Robi's RPAs (Robotic Process Automation) bots
+**A Notable Achivement**: 
+* Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. There were multiple RPAs no longer being used by Business team. Hence, the RPAs were offloaded and the server was decommissioned as it was no longer required. Also, scheduling time of RPAs was assessed, and the RPAs that had no conflict in scheduling time were brought together into a single server, thus reducing more resources. Total space freed up is 850 GB. 
+
+### [VAS CP Portal (Content Provider Onboarding)](https://vascp.robi.com.bd/login) - 📘 Digitize e2e VAS concept lifecycle
+VASCP is a web application will bring operational excellence for VAS new partnership / service / campaign onboarding & will help to add potential revenue stream by executing faster partnership which will bring potential revenue contribution to VAS. This portal will empower e2e VAS digitization of any new service onboarding for Robi MO VAS & New Business department & will ensure vendor / partner / Content Provider i.e VAS CP Lifecycle in a digitized way.    
+
+Key Deliverables: 
+* Portal development for new business concept submission by partner & do all relevant activities by Robi Concern to make product Go-Live following all steps including keep tracking of required approvals in full e2e digitized way
+*  Individual Portal for Partner, Robi VAS & New Business department & other relevant execution unit to monitor each activity & ensure proper SLA
+* Effective Dashboard for Visualization & Monitoring with all ongoing project status 
+* Report download options to check historical data.
+* Auto Email generation as instant task notification. 
+* Concept submission
+* Concept's related GM can assign Project manager. Project manager can assign other department's SPOC according to his/her need.
+* PM can configure stage for each concept. Example:
+ * Binge Content: Artist Director Involment
+ * Binge Content: Binge Show
+ * Binge Content: Final Script
+ * Binge Content: Launch
+ * Binge Content: Post Production Meeting, etc.
+
+
+### [info360 and Robi e-learning platform](https:#) - 📘 Robi Call Center and Walk in center agents lifecycle management
+
+**Info360**: Info360 is information/knowledge sharing portal for Robi which contains all products details, offers and campaigns information which required to serve customer query for both brands (Robi + Airtel). It is one of the basic hygiene factors for customer service, without which customer service will be seriously impacted as well as customer experience will be hampered.
+
+**e-learning**: The main objective of e-learning portal is to have a training portal for agents of both brands where they can attend training and exam to ensure proper readiness to serve customer.
 
 
 
-
-## Academic Projects 
-
-### [HealthStack System](https://github.com/Jawwad-Fida/HealthStack-System "GitHub Repository") - 📘 Software Engineering Project
-An online based platform for multiple hospitals. Ability to track, monitor, and share a patient's health records between all hospitals. Patients can also see information regarding multiple hospitals and doctors, as well as take appointments via online. Pay laboratory tests via online as well as chat with appointed doctors.
-
-**Tech Stack and APIs** : Django, Django REST framework, HTML, CSS, Boostrap, Javascript, SQLite, MailTrap, SSLCommerz Payment Gateway, Django REST framework, Django PDF library, Django channels for chat, ngrok HTTP\
-**Project doc** : [MKdocs documentation](https://jawwad-fida.github.io/HealthStack-System/)
-
-### [RADON - Real Estate Business](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business "GitHub Repository") - 📘 System Analysis and Design Project 
-A platform where customers are able to Buy/Rent apartments or properties and also able to track their monthly invoices and utility bills. Various real estate businesses will be able to host their apartments or properties here as well as track their customers' monthly utility bills.
-
-**Tech Stack and APIs** : PHP PDO, HTML, CSS, Boostrap, Javascript, MySQL, MailTrap, SSLCommerz Payment Gateway, PHP mPDF library\
-**Project docs** : [SRS Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604572/SAD.SRS-Report.pdf), [Project Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604577/SAD.Lab.Project.Report.pdf)\
-**Project video link** : [Youtube](https://youtu.be/QWQO_P_CYhA)
-
-### [Stroke Prediction](https://github.com/Jawwad-Fida/Stroke-Prediction "GitHub Repository") - 📘 Pattern Recognition Project
-Predict whether a patient is likely to get stroke using machine learning classification algorithms. Performance Comparison of algorithms.
-
-**Tech Stack** : Python, Numpy, Matplotlib, Seaborn, Pandas, Sklearn\
-**Project doc** : [Pattern Lab Project Report - Stroke Prediction.pdf](https://github.com/Jawwad-Fida/Stroke-Prediction/files/9715902/Pattern.Lab.Project.Report.-.Team.Kingsmen.pdf)
-
-### [DNA sequence classification by Deep Neural Network](https://github.com/Jawwad-Fida/DNA-sequence-classification-by-Deep-Neural-Network "GitHub Repository") - 📘 Bioinformatics Project
-We have worked on the DNA sequence classification problem where the input is the DNA sequence and the output class states whether a certain histone protein is present on the sequence or not. For this purpose, we have used one of the datasets from 12 different datasets that we have collected. The name of the dataset is H3K4me2. 
-
-**Tech Stack** :  Python, Numpy, Pandas, Sklearn, Keras, Tensorflow.\
-**Project doc** : [Bioinformatics Project Report.pdf](https://github.com/Jawwad-Fida/DNA-sequence-classification-by-Deep-Neural-Network/files/11925655/Bioinformatics.Project.Report.of.Group.1.docx.pdf)
-
-### [Online Restaurant Management System](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System "GitHub Repository") - 📘 Database Management Systems Project
-An eCommerce Website where customers can order food online. It also contains a system for managing delivery men and an authentication system during interactions between delivery men and customers
-
-**Tech Stack** :  HTML, CSS, Bootstrap, Javascript, PHP PDO, MySQL, MailTrap, SSLCommerz Payment Gateway\
-**Project doc** : [Project Documentation.docx](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System/files/11925679/Project.Documentation.-.Group.3.Sec.C.docx)\
-**Project video link**: [Youtube](https://youtu.be/rPK7x3IkC0w)
-
-### [Salary Estimator](https://github.com/Jawwad-Fida/Data-Science-Salary-Estimator "GitHub Repository") - 📘 Data Science Project
-A tool that estimates data science salaries. Used a Dataset containing over 1000 job descriptions from glassdoor. Built a client-facing API using flask.
-
-**Tech Stack** : Python, Numpy, Matplotlib, Seaborn, Pandas, Sklearn, Flask

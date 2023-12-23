@@ -1,6 +1,6 @@
-# Professional-Software-Projects
+# IT Projects
 
-## Projects overseen as Software Project Manager (Specialist), Enterprise and OTT Solutions, New Core Planning at [Robi Axiata Limited](https://www.robi.com.bd/en)
+## Projects overseen as an IT Project Manager (Specialist, Enterprise and OTT Solutions) at [Robi Axiata Limited](https://www.robi.com.bd/en)
 
 ### [Binge - Online video streaming OTT platform (binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
 Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial. Binge is Robi's owned streaming platform has been successfully running from 2021. Binge brings a wide variety of contents from: Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals. It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.

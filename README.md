@@ -18,7 +18,7 @@ Content Language: English, Bangla.
 <img width="50%" alt="Binge user details page" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/ae719044-efcd-4258-a1ed-2d90f5f6b45f">
 
 
-### [Customer Feedback Management (CFM)](https://cfm.robi.com.bd/) - 📘 Robi's central feedback management solution
+### [Customer Feedback Management (CFM)](https://cfm.robi.com.bd/) - 📘 Robi's central customer feedback management solution
 CFM is a self-sustained, real-time, human independent feedback management system that automates the collection and management of customer feedback from different customer service channels into daily business operations. 
 CFM solution will enable Robi to manage customer feedback centrally from a single platform, automate the collection and management of customer feedback from different customer service channels and helps to channelize the feedback directly to the relevant functions for close looping. CFM solution is integrated with the customer interacting solutions and is designed to collect customers feedback, analyze feedback based on different criteria and act depending on customer feedback with the goal to optimize the customer experience. CFM solution also includes intuitive dashboard along with reporting that will provide clear visibility of the whole Robi and Airtel customers on their level of satisfaction and areas to improve.
 

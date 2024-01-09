@@ -14,30 +14,37 @@ Content Language: English, Bangla.
 * Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. As Robi was facing resource crunch in its data center, to help in this resource crunch problem, I found out which Binge VM resources utilization was low for the last one year and can be offloaded. Hence, some VMs were offloaded freeing up around 2.22 TB space. This contributed BDT 6 mBDT (54,546 mUSD) per year savings to IT Simplification Project from my end.
 
 <img width="50%" alt="Home page 1" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/c132b60b-fdcb-4c02-8ea7-15c61d8a22c8">
-
 <img width="50%" alt="Binge Watch TV" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/b4a64596-2103-4ed1-a3c9-ac5911dc67eb">
-
 <img width="50%" alt="Binge user details page" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/ae719044-efcd-4258-a1ed-2d90f5f6b45f">
 
 
 ### [Customer Feedback Management (CFM)](https://cfm.robi.com.bd/) - 📘 Robi's central feedback management solution
-CFM is a self-sustained, real-time, human independent feedback management system that automates the collection and management of customer feedback from different customer service channels into daily business operations. CFM solution will enable Robi to manage customer feedbacks centrally from a single platform. The solution will integrate and collect feedback from multiple touch points/integration points (i.e. almost all Robi and Airtel customer facing/service channels) using survey, web form, and social media channel and consolidate all the feedback into a single dashboard. When a customer will interact with any of the channel (fulfils an interaction purpose), customer will get a survey to rate performance of the hit channel. This solution is designed to collect customers feedback, analyze feedback based on different criteria and act depending on customer feedback with the goal to optimize the customer experience. CFM solution also includes intuitive dashboard along with reporting that will provide clear visibility of the whole Robi and Airtel (another Robi brand) customers on their level of satisfaction and areas to improve.
+CFM is a self-sustained, real-time, human independent feedback management system that automates the collection and management of customer feedback from different customer service channels into daily business operations. 
+CFM solution will enable Robi to manage customer feedback centrally from a single platform, automate the collection and management of customer feedback from different customer service channels and helps to channelize the feedback directly to the relevant functions for close looping. CFM solution is integrated with the customer interacting solutions and is designed to collect customers feedback, analyze feedback based on different criteria and act depending on customer feedback with the goal to optimize the customer experience. CFM solution also includes intuitive dashboard along with reporting that will provide clear visibility of the whole Robi and Airtel customers on their level of satisfaction and areas to improve.
 
-Key Deliverables: 
-* Survey Management portal.
-* Channel Integration
-* Reporting portal.
-* Infrastructure readiness.
-* OS Layer Readiness for Application.
-* Integration with MS AD.
+**Main task:** Project Management, guided the team and completed the development, integration, service and infrastructure UAT & Information Security (IS) check for CFM in 2 phases:
+* Phase 1: Developed and deployed CFM Solution as per scope on July 20, 2023
+* Phase 2: New development scope has been identified during phase 1 and deployed the features as complementary on December 06, 2023
 
-Key Benefits:
-* Implementation of CFM Solution in Robi will facilitate to comply the Group direction (Axiata Corporate Center) to all Opcos for implementing tNPS (Transactional NPS) solution for customer service channels in a uniformed way.
-* Automate & Digitalize Feedback Mgt. Process and improve CX Satisfaction at Interaction channels.
-* Centralized Survey Management
-* Feedback Closed Feedback Loop
-* Optimized Customer Experience
-* Visibility of Customer Experience & Improvement Areas
+The channels that are integrated with CFM solution are Contact Center, Single App (Robi & Airtel), USSD, 121 IVR, Retailer IVR, Email (Int’l Roaming), Messenger Chatbot, Whatsapp chatbot, Corporate Website, Web Selfcare etc. There are few more channels that will be integrated based on new channel partner onboarding and their readiness. CFM is ready to integrate new channels with both capability - API connectivity & File sharing.
+
+Notable Key Features and Benefits: 
+* Dynamic management portal for survey creation, survey mapping and distribution.
+* Support for both SMS and Web-based surveys (Both Bangla and English language support)<img width="878" alt="CFM broadcast logic" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/18892444-533c-4a75-80ac-7b3b1543c798">
+
+* Feature for Schedule Survey, Instant Survey & automated survey after customer interaction.
+* Multi-layered/branching survey creation (Channel wise, brand wise, Interaction wise, USSD node wise, IVR menu wise etc.)
+* Channel wise broadcast logic (Max Surveys Per Day, N'th Interaction survey)
+* Sentiment Analysis based on customer’s feedback.
+* Close Feedback Loop, SLA management, Alert generation on SLA violation
+* Dynamic dashboard to display day to day survey statistics, and Dynamic Reporting portal to analyze customer data and create extensive reports.
+* API based and file based integration with multiple channels.
+  
+<img width="50%" alt="CFM - Max counter and Nth interaction" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/d8c63bf0-d0a3-4a31-8f3f-9ad1a69d6bbb">
+<img width="50%" alt="CFM - Multiple survey fire" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/93cadfdd-a7c5-42ba-803f-c9acec000787">
+<img width="50%" alt="CFM broadcast logic" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/356ac867-c550-4d58-984c-d1c6a1bee289">
+<img width="50%" alt="CFM - Telephonic Survey" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/630c9a13-f835-40ce-88b7-e022e34bd9e7">
+
 
 ### [Orchestrator RPA](https:#) - 📘 Centralized platform to monitor and control Robi's RPA (Robotic Process Automation) bots
 Robi Axiata Limited several RPAs in place with a variety of functions in various departments. When these RPA servers go down, the entire workflow becomes stalled, which can only be rectified by manually restarting the RPA via the command prompt. Hence, without the trouble of command prompt, a centralized hub with numerous functionalities such as enable, disable, start, off, schedule, multi-scheduling of these RPA was required to handle this issue. As a result, a centralized system called Orchestrator RPA can be incorporated to manage and monitor all RPA processes in the organization. This is a web application that manages the execution of recurring tasks. This online interactive digitized solution Orchestrator RPA will  erase all obscures and enhance to rectify in an user friendly manner.  Overall, It is a single control room where users can plan and run bots on desktop and virtual machines, create sequences, monitor bot status, and analyze the results of their work. 

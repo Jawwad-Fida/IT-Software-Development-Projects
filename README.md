@@ -30,8 +30,7 @@ The channels that are integrated with CFM solution are Contact Center, Single Ap
 
 Notable Key Features and Benefits: 
 * Dynamic management portal for survey creation, survey mapping and distribution.
-* Support for both SMS and Web-based surveys (Both Bangla and English language support)<img width="878" alt="CFM broadcast logic" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/18892444-533c-4a75-80ac-7b3b1543c798">
-
+* Support for both SMS and Web-based surveys (Both Bangla and English language support)
 * Feature for Schedule Survey, Instant Survey & automated survey after customer interaction.
 * Multi-layered/branching survey creation (Channel wise, brand wise, Interaction wise, USSD node wise, IVR menu wise etc.)
 * Channel wise broadcast logic (Max Surveys Per Day, N'th Interaction survey)
@@ -39,7 +38,7 @@ Notable Key Features and Benefits:
 * Close Feedback Loop, SLA management, Alert generation on SLA violation
 * Dynamic dashboard to display day to day survey statistics, and Dynamic Reporting portal to analyze customer data and create extensive reports.
 * API based and file based integration with multiple channels.
-  
+
 <img width="50%" alt="CFM - Max counter and Nth interaction" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/d8c63bf0-d0a3-4a31-8f3f-9ad1a69d6bbb">
 <img width="50%" alt="CFM - Multiple survey fire" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/93cadfdd-a7c5-42ba-803f-c9acec000787">
 <img width="50%" alt="CFM broadcast logic" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/356ac867-c550-4d58-984c-d1c6a1bee289">

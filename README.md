@@ -22,7 +22,7 @@ Content Language: English, Bangla.
 CFM is a self-sustained, real-time, human independent feedback management system that automates the collection and management of customer feedback from different customer service channels into daily business operations. 
 CFM solution will enable Robi to manage customer feedback centrally from a single platform, automate the collection and management of customer feedback from different customer service channels and helps to channelize the feedback directly to the relevant functions for close looping. CFM solution is integrated with the customer interacting solutions and is designed to collect customers feedback, analyze feedback based on different criteria and act depending on customer feedback with the goal to optimize the customer experience. CFM solution also includes intuitive dashboard along with reporting that will provide clear visibility of the whole Robi and Airtel customers on their level of satisfaction and areas to improve.
 
-**Main task:** Technical Project Management - guided the team to complete the development, integration, service and infrastructure UAT & Information Security (IS) check for CFM in 2 phases:
+**Notable Achievement:** Technical Project Management - guided the team to complete the development, integration, service and infrastructure UAT & Information Security (IS) check for CFM in 2 phases:
 * Phase 1: Developed and deployed CFM Solution as per scope on July 20, 2023
 * Phase 2: New development scope has been identified during phase 1 and deployed the features as complementary on December 06, 2023
 

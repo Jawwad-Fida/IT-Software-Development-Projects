@@ -1,4 +1,4 @@
-<img width="908" alt="Binge Watch TV" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/e2b31c96-1099-447e-b7f3-a23fb586e2e9"># IT Software Engineering Projects
+# IT Software Engineering Projects
 
 ## Projects overseen as an IT Project Manager (Specialist, Enterprise and OTT Solutions) at [Robi Axiata Limited](https://www.robi.com.bd/en)
 

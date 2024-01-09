@@ -1,27 +1,23 @@
-# IT Software Engineering Projects
+<img width="908" alt="Binge Watch TV" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/e2b31c96-1099-447e-b7f3-a23fb586e2e9"># IT Software Engineering Projects
 
 ## Projects overseen as an IT Project Manager (Specialist, Enterprise and OTT Solutions) at [Robi Axiata Limited](https://www.robi.com.bd/en)
 
 ### [Binge - Online video streaming OTT platform (binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
-Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial. Binge is Robi's owned streaming platform has been successfully running from 2021. Binge brings a wide variety of contents from: Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals. It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.
-
-What is there in Binge:
- Enjoy variety of Exclusive Web Series, ranging from thriller to romantic comedy.
-* Stream exciting, diverse contents available exclusively for you.
-* Play, pause, and resume watching your favorite contents, without watching a single commercial.
-* Usage History feature to help you see how much time you've spent on Binge, every day.
-* Flexible subscription payment methods for you to have full control over preferred mode of payment.
-* Enable Parental lock feature to restrict specific content for your kids. AND MORE!
+Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial. Binge is Robi's owned streaming platform.  It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.
+Content Language: English, Bangla.
 
 **Some Notable Achivements**: 
-* On Net Free & Off net premium feature delivery: On Net Free & Off net premium feature for both Android and iOS Mobile. All On Net customers (Robi Network customers) will be able to watch all content without purchasing any SVOD pack. All Off Net customers (other telecoms) will have to purchase subscriptions to watch premium content. All free content will be available to both On Net & Off net customers as per usual.
-* CDN migration: Initiated CDN migration of Binge offnet users traffic from Nexdecade CDN servers (third-party) to Robi own CDN servers. This migration will result in annual savings of 80Mn BDT as we reduce our reliance on third party.
-* Initiated Binge SaaS/Turnkey Solution which will optimize cost by BDT 54.14Mn per quarter i.e., BDT 216.53 Mn in 4 quarters mainly via this model.
-* Solving the abnormal otp related SMS issues (2.2 million SMS) and TPS limit exceeded complaints faced by Binge due to growing number of subscriptions by:
-  * Getting developers an SMS panel provided by Ada (third-party) for analysis and proper visibility.
-  * Ensuring DDOS protection shield is active at application layer to block brute force attacks by hackers.
-  * Ensure proper blocking mechanisms are in place to block numbers that are generating multiple SMS (i.e., blocking mechanism implemented for a MSISDN is simultaneous 10 requests in a min)
-* Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. As Robi was facing resource crunch in Pubail DC, to help in this resource crunch problem, found out which Binge VM resources utilization was low for the last one year and can be offloaded. Hence, some VMs were offloaded freeing up around 2.22 TB space. This contributed BDT 6 million savings to IT Simplification Project of NCP team.
+* On Net Free & Off net premium (Android and IOS): On Net customers (Robi Telecom customers) will be able to watch all content without purchasing any SVOD pack. All Off Net customers (other telecom customers) will have to purchase subscriptions to watch premium content. All free content will be available to both On Net & Off net customers as per usual.
+* CDN migration: Initiated CDN migration of Binge offnet users traffic from Nexdecade CDN servers (third-party) to Robi own internal CDN servers. This migration will result in annual savings of 80Mn BDT for Robi as the company reduces reliance on third party.
+* Technical project management and cross-platform integration during the complete in-house overhaul of company's OTT platform (binge.buzz), which resulted in significant cost savings of 112.32 mBDT (1.14 mUSD) per year by streamlining operations and consolidating services under one internal DevOps team, thereby reducing the complexity of Binge ecosystem.
+* Solving the abnormal otp related SMS issues (2.2 million SMS) and TPS limit exceeded complaints faced by Binge due to growing number of subscriptions by: Ensuring DDOS protection shield is active at application layer to block brute force attacks by hackers, and Ensuring proper blocking mechanisms are in place to block numbers that are generating multiple SMS (i.e., implementing blocking mechanism for a MSISDN to simultaneous 10 requests in a min)
+* Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. As Robi was facing resource crunch in its data center, to help in this resource crunch problem, I found out which Binge VM resources utilization was low for the last one year and can be offloaded. Hence, some VMs were offloaded freeing up around 2.22 TB space. This contributed BDT 6 mBDT (54,546 mUSD) per year savings to IT Simplification Project from my end.
+
+<img width="50%" alt="Home page 1" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/c132b60b-fdcb-4c02-8ea7-15c61d8a22c8">
+
+<img width="50%" alt="Binge Watch TV" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/b4a64596-2103-4ed1-a3c9-ac5911dc67eb">
+
+<img width="50%" alt="Binge user details page" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/ae719044-efcd-4258-a1ed-2d90f5f6b45f">
 
 
 ### [Customer Feedback Management (CFM)](https://cfm.robi.com.bd/) - 📘 Robi's central feedback management solution

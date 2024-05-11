@@ -69,7 +69,8 @@ Key Benefits:
 * Perfect solution for low-level automation in comparison with the market applications.
 
 **A Notable Achivement**: 
-* Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. There were multiple RPAs no longer being used by Business team. Hence, the RPAs were offloaded and the server was decommissioned as it was no longer required. Also, scheduling time of RPAs was assessed, and the RPAs that had no conflict in scheduling time were brought together into a single server, thus reducing more resources. Total space freed up is 850 GB. 
+* Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. There were multiple RPAs no longer being used by Business team. Hence, the RPAs were offloaded and the server was decommissioned as it was no longer required. Also, scheduling time of RPAs was assessed, and the RPAs that had no conflict in scheduling time were brought together into a single server, thus reducing more resources. Total space freed up is 850 GB.
+* Automate business process through RPA which results in real-time human less process resolution for end users and increasing operational efficiency
 
 ### [VAS CP Portal (Content Provider Onboarding)](https://vascp.robi.com.bd/login) - 📘 Digitize e2e VAS concept lifecycle
 VASCP is a web application will bring operational excellence for VAS new partnership / service / campaign onboarding & will help to add potential revenue stream by executing faster partnership which will bring potential revenue contribution to VAS. This portal will empower e2e VAS digitization of any new service onboarding for Robi MO VAS & New Business department & will ensure vendor / partner / Content Provider i.e VAS CP Lifecycle in a digitized way.    

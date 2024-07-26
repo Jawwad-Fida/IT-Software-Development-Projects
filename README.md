@@ -1,4 +1,4 @@
-# IT Software Engineering Projects 
+# IT Software Engineering Projects (WORK in PROGRESS)
 
 ## Projects overseen as an IT Project Manager and Solution Planner (Specialist, Enteprise and OTT Solutions) at [Robi Axiata Limited](https://www.robi.com.bd/en)
 
@@ -6,12 +6,15 @@
 Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial. Binge is Robi's owned streaming platform.  It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.
 Content Language: English, Bangla.
 
+
 **Some Notable Achivements**: 
 * On Net Free & Off net premium (Android and IOS): On Net customers (Robi Telecom customers) will be able to watch all content without purchasing any SVOD pack. All Off Net customers (other telecom customers) will have to purchase subscriptions to watch premium content. All free content will be available to both On Net & Off net customers as per usual.
 * CDN migration: Initiated CDN migration of Binge offnet users traffic from Nexdecade CDN servers (third-party) to Robi own internal CDN servers. This migration will result in annual savings of 80Mn BDT for Robi as the company reduces reliance on third party.
 * Technical project management and cross-platform integration during the complete in-house overhaul of company's OTT platform (binge.buzz), which resulted in significant cost savings of 112.32 mBDT (1.14 mUSD) per year by streamlining operations and consolidating services under one internal DevOps team, thereby reducing the complexity of Binge ecosystem.
 * Solving the abnormal otp related SMS issues (2.2 million SMS) and TPS limit exceeded complaints faced by Binge due to growing number of subscriptions by: Ensuring DDOS protection shield is active at application layer to block brute force attacks by hackers, and Ensuring proper blocking mechanisms are in place to block numbers that are generating multiple SMS (i.e., implementing blocking mechanism for a MSISDN to simultaneous 10 requests in a min)
 * Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. As Robi was facing resource crunch in its data center, to help in this resource crunch problem, I found out which Binge VM resources utilization was low for the last one year and can be offloaded. Hence, some VMs were offloaded freeing up around 2.22 TB space. This contributed BDT 6 mBDT (54,546 mUSD) per year savings to IT Simplification Project from my end.
+* Technical Project Management and Integration:Led the technical project management and cross-platform integration during the in-house revamp of Robi's OTT platform, binge.buzz, resulting in significant annual cost savings of 112.32 million BDT (955,000 USD).
+* CDN Migration Planning and Execution: Planned and initiated the migration of Binge off-net user traffic (users from other telecom operators) from third-party CDN servers to Robi's internal CDN servers, resulting in annual cost savings of 80 million BDT (681,000 USD).
 
 <img width="50%" alt="Home page 1" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/c132b60b-fdcb-4c02-8ea7-15c61d8a22c8">
 <img width="50%" alt="Binge Watch TV" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/b4a64596-2103-4ed1-a3c9-ac5911dc67eb">
@@ -38,6 +41,11 @@ Notable Key Features and Benefits:
 * Close Feedback Loop, SLA management, Alert generation on SLA violation
 * Dynamic dashboard to display day to day survey statistics, and Dynamic Reporting portal to analyze customer data and create extensive reports.
 * API based and file based integration with multiple channels.
+
+Centralized Customer Feedback Management System:Led the planning, development, and integration of a centralized Customer Feedback Management System (CFM), automating customer feedback collection and management across multiple customer-facing and service channels.
+USSD CDR Data Optimization: Planned, designed, and led the development of a process to significantly reduce the volume of USSD CDR customer data through effective filtration, decreasing the data from 120 million to 30-40 million per day, resulting in a substantial reduction in the allocation of CFM Gluster FS storage.
+
+
 
 <img width="50%" alt="CFM - Max counter and Nth interaction" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/d8c63bf0-d0a3-4a31-8f3f-9ad1a69d6bbb">
 <img width="50%" alt="CFM - Multiple survey fire" src="https://github.com/Jawwad-Fida/IT-Software-Development-Projects/assets/121283896/93cadfdd-a7c5-42ba-803f-c9acec000787">
@@ -72,6 +80,10 @@ Key Benefits:
 * Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. There were multiple RPAs no longer being used by Business team. Hence, the RPAs were offloaded and the server was decommissioned as it was no longer required. Also, scheduling time of RPAs was assessed, and the RPAs that had no conflict in scheduling time were brought together into a single server, thus reducing more resources. Total space freed up is 850 GB.
 * Automate business process through RPA which results in real-time human less process resolution for end users and increasing operational efficiency
 
+
+Managed and implemented Robotic Process Automation (RPA) bots across the organization using an in-house RPA Python development framework to streamline business processes, enhance operational efficiency, and provide real-time automated process solutions for end-users.
+
+
 ### [VAS CP Portal (Content Provider Onboarding)](https://vascp.robi.com.bd/login) - 📘 Digitize e2e VAS concept lifecycle
 VASCP is a web application will bring operational excellence for VAS new partnership / service / campaign onboarding & will help to add potential revenue stream by executing faster partnership which will bring potential revenue contribution to VAS. This portal will empower e2e VAS digitization of any new service onboarding for Robi MO VAS & New Business department & will ensure vendor / partner / Content Provider i.e VAS CP Lifecycle in a digitized way.    
 
@@ -96,6 +108,16 @@ Key Deliverables:
 **Info360**: Info360 is information/knowledge sharing portal for Robi which contains all products details, offers and campaigns information which required to serve customer query for both brands (Robi + Airtel). It is one of the basic hygiene factors for customer service, without which customer service will be seriously impacted as well as customer experience will be hampered.
 
 **e-learning**: The main objective of e-learning portal is to have a training portal for agents of both brands where they can attend training and exam to ensure proper readiness to serve customer.
+
+### [Robi Corporate Website (binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
+Led the planning, development, integration and UAT of the EasyPlan MyPack purchase feature on the Robi Corporate website. This allowed customers to customize and purchase internet, voice, SMS, and VAS services according to their desired configurations, using either mobile balance or digital payment options through Payment Gateway (SSL Wireless / Portwallet).
+
+
+### [Robiwifi(binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
+Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial. Binge is Robi's owned streaming platform.  It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.
+Content Language: English, Bangla.
+Technical Project Leadership: Led the technical project management, planning, and development of the RobiWifi website, including cross-platform Rest API token-based integration with CBS, VAS SMSC, and IoT systems. The project enabled Robi to offer Fixed Wireless Access (FWA) services over 4G to specific zones in Bangladesh, offering a comprehensive interface for the complete customer journey with FWA device routers and SIMs.
+DevOps Team Management:Managed and led the DevOps team in deploying the solution within a Kubernetes cluster. Oversaw the ISVA exercise of the cluster, and managed necessary integrations such as CI/CD pipelines, SonarQube for code quality assurance, and ELK stack onboarding for monitoring.
 
 
 

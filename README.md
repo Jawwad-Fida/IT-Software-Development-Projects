@@ -9,8 +9,6 @@ Content Language: English, Bangla.
 
 **Some Notable Achivements**: 
 * On Net Free & Off net premium (Android and IOS): On Net customers (Robi Telecom customers) will be able to watch all content without purchasing any SVOD pack. All Off Net customers (other telecom customers) will have to purchase subscriptions to watch premium content. All free content will be available to both On Net & Off net customers as per usual.
-* CDN migration: Initiated CDN migration of Binge offnet users traffic from Nexdecade CDN servers (third-party) to Robi own internal CDN servers. This migration will result in annual savings of 80Mn BDT for Robi as the company reduces reliance on third party.
-* Technical project management and cross-platform integration during the complete in-house overhaul of company's OTT platform (binge.buzz), which resulted in significant cost savings of 112.32 mBDT (1.14 mUSD) per year by streamlining operations and consolidating services under one internal DevOps team, thereby reducing the complexity of Binge ecosystem.
 * Solving the abnormal otp related SMS issues (2.2 million SMS) and TPS limit exceeded complaints faced by Binge due to growing number of subscriptions by: Ensuring DDOS protection shield is active at application layer to block brute force attacks by hackers, and Ensuring proper blocking mechanisms are in place to block numbers that are generating multiple SMS (i.e., implementing blocking mechanism for a MSISDN to simultaneous 10 requests in a min)
 * Contributed to IT Simplification Project (Robi CIO action item) to save costs by itentifying VM/hardware resources that can be offloaded. As Robi was facing resource crunch in its data center, to help in this resource crunch problem, I found out which Binge VM resources utilization was low for the last one year and can be offloaded. Hence, some VMs were offloaded freeing up around 2.22 TB space. This contributed BDT 6 mBDT (54,546 mUSD) per year savings to IT Simplification Project from my end.
 * Technical Project Management and Integration:Led the technical project management and cross-platform integration during the in-house revamp of Robi's OTT platform, binge.buzz, resulting in significant annual cost savings of 112.32 million BDT (955,000 USD).
@@ -111,13 +109,6 @@ Key Deliverables:
 
 ### [Robi Corporate Website (binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
 Led the planning, development, integration and UAT of the EasyPlan MyPack purchase feature on the Robi Corporate website. This allowed customers to customize and purchase internet, voice, SMS, and VAS services according to their desired configurations, using either mobile balance or digital payment options through Payment Gateway (SSL Wireless / Portwallet).
-
-
-### [Robiwifi(binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
-Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Video-On-Demand to Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial. Binge is Robi's owned streaming platform.  It is currently available 100+ countries all over the world. Binge is currently available in IOS, Android, Large Screen, Web.
-Content Language: English, Bangla.
-Technical Project Leadership: Led the technical project management, planning, and development of the RobiWifi website, including cross-platform Rest API token-based integration with CBS, VAS SMSC, and IoT systems. The project enabled Robi to offer Fixed Wireless Access (FWA) services over 4G to specific zones in Bangladesh, offering a comprehensive interface for the complete customer journey with FWA device routers and SIMs.
-DevOps Team Management:Managed and led the DevOps team in deploying the solution within a Kubernetes cluster. Oversaw the ISVA exercise of the cluster, and managed necessary integrations such as CI/CD pipelines, SonarQube for code quality assurance, and ELK stack onboarding for monitoring.
 
 
 
